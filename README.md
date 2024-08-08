@@ -1,6 +1,7 @@
 # Dataverse
 
 You don't require a fancy library to connect to the Microsoft Dataverse.
+# You need to create the service principle with App Registration in Azure AD and add the required Dynamics CRM API - User Impersonation persmission.
 ```python
 from Dataverse import Dataverse
 
