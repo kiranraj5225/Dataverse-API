@@ -1,7 +1,7 @@
 # Dataverse
 
 You don't require a fancy library to connect to the Microsoft Dataverse.
-```
+```python
 from Dataverse import Dataverse
 
 dv = Dataverse(tenant="tenantid", env_name="environment_host_name", client_id="AAD App Client Id", secret="AAD App Secret Value", scope="https://environment_host_name/.default")
