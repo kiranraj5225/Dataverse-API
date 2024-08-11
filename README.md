@@ -32,4 +32,4 @@ if dv.login()
         )
 
 ```
-New functions will be added soon.
+New functionalities will be added soon.
